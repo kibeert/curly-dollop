@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\demoblazor\\Demoblazor.csproj": {}
+    "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\Demoblazor\\Demoblazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\demoblazor\\Demoblazor.csproj": {
+    "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\Demoblazor\\Demoblazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\demoblazor\\Demoblazor.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\Demoblazor\\Demoblazor.csproj",
         "projectName": "Demoblazor",
-        "projectPath": "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\demoblazor\\Demoblazor.csproj",
+        "projectPath": "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\Demoblazor\\Demoblazor.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\demoblazor\\obj\\",
+        "outputPath": "C:\\Users\\pc\\documents\\3.2\\projects\\blazor\\Demoblazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
